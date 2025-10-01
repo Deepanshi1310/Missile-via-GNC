@@ -7,3 +7,4 @@ It is a two staged missile which reached the apogee and splits. The warhead targ
 [State-Space_Modelling_of_a_Rocket_for_Optimal_Cont.pdf](https://github.com/user-attachments/files/22643088/State-Space_Modelling_of_a_Rocket_for_Optimal_Cont.pdf)
 
 
+https://github.com/VigneshSella/HybridRocketTeam2018-2021
