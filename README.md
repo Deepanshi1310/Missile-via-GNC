@@ -14,3 +14,6 @@ https://github.com/VigneshSella/HybridRocketTeam2018-2021
 
 <img width="308" height="344" alt="image" src="https://github.com/user-attachments/assets/913ca017-c371-41dc-9a3b-693f7f24a143" />
 
+
+CONTROLS: https://github.com/khushant2001/Missile-GNC/blob/main/Missile_gnc.pdf
+
