@@ -17,3 +17,11 @@ https://github.com/VigneshSella/HybridRocketTeam2018-2021
 
 CONTROLS: https://github.com/khushant2001/Missile-GNC/blob/main/Missile_gnc.pdf
 
+
+So for the fins we have two options:
+one with roller ons other without roller ons
+
+
+adding roller ons on wings works as gyroscope. It stabilizes the rocket via conservation of momentum. It was used when imu and microcontrollers were not available. It added more weight to the rocket and sometimes air went turbulent between the hinged part.
+
+Thus after imu and micro contollers were found, this technology discontinued from missile
