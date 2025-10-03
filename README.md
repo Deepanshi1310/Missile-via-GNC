@@ -25,3 +25,19 @@ one with roller ons other without roller ons
 adding roller ons on wings works as gyroscope. It stabilizes the rocket via conservation of momentum. It was used when imu and microcontrollers were not available. It added more weight to the rocket and sometimes air went turbulent between the hinged part.
 
 Thus after imu and micro contollers were found, this technology discontinued from missile
+
+
+Now for material of fins:
+Suitable material for EX fins are:
+
+·       Plywood (such as 1/8” birch plywood)
+
+·       Resin-glass laminate sheet (such as G10/FR4 or Garolite)
+
+·       Aluminum alloy sheet
+
+·       Composite-sandwich (such as balsa or foam core with glass or carbon skins)
+
+·       3D printed plastic (such as PLA or fibre-reinforced filament)
+
+
