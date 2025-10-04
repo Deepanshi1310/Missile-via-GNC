@@ -9,6 +9,9 @@ It is a two staged missile which reached the apogee and splits. The warhead targ
 
 https://github.com/VigneshSella/HybridRocketTeam2018-2021
 
+
+Studied in depth for aerovector and changed the code as per our requirements.
+
 https://github.com/VigneshSella/HybridRocketTeam2018-2021
 
 
