@@ -44,3 +44,6 @@ Suitable material for EX fins are:
 ·       3D printed plastic (such as PLA or fibre-reinforced filament)
 
 
+Studied aerovector git in detail and changed code according to our requirements
+
+
